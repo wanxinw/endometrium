@@ -1,6 +1,6 @@
 # endometrium
 
-Codes developed for "Single cell transcriptomic atlas of the human endometrium during the menstrual cycle"
+Developed for "Single cell transcriptomic atlas of the human endometrium during the menstrual cycle" for:
 
 1. Gene dispersion calculation: 
 overdispersion_main.R
